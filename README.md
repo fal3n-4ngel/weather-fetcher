@@ -24,4 +24,4 @@ Wind Speed :2.06m/s
 
 ## Screenshot
 
-<img src="https://github.com/fal3n-4ngel/weather-api/blob/main/ss.png" width="700" height="345">
+<img src="https://github.com/fal3n-4ngel/weather-api/blob/main/s1.png" width="700" height="345">
