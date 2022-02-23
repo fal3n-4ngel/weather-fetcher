@@ -4,7 +4,7 @@ Simple Python script to fetches weather data from Open Weather Map by Adithya Kr
 
 ## Requirement
 
-* API: \ http://openweathermap.org/appid
+* API:  http://openweathermap.org/appid
 
 ## Usage from Terminal
 
